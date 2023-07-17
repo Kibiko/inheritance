@@ -3,7 +3,7 @@ public abstract class Animal {  //abstract class means no longer able
                                 //or parrots
     //PROPERTIES
 
-    private String name;
+    protected String name;
 
     //CONSTRUCTOR
 
